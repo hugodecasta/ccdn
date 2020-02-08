@@ -1,0 +1,20 @@
+{
+  "name": "ccdn",
+  "description": "COUCOU cdn",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests yet\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hugodecasta/ccdn.git"
+  },
+  "author": "hugo castaneda",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "log-to-file": "^2.0.2",
+    "uglify-es": "^3.3.9"
+  }
+}
